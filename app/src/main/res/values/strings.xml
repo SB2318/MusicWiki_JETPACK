@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MusicWiki</string>
+    <string name="test_des">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</string>
 </resources>
